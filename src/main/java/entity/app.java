@@ -24,7 +24,7 @@ public class app {
 
     public void setAmount(double amount) {
         this.amount = amount;
-    }
+    } // hii
 
     public double getMoNumber() {
         return moNumber;
