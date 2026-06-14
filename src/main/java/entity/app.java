@@ -24,19 +24,19 @@ public class app {
 
     public void setAmount(double amount) {
         this.amount = amount;
-    } // hii
+    }
 
     public double getMoNumber() {
         return moNumber;
     }
-
+   // git change
     public void setMoNumber(double moNumber) {
         this.moNumber = moNumber;
     }
 
     public String getHolerName() {
         return holerName;
-    }//hi
+    }
 
     public void setHolerName(String holerName) {
         this.holerName = holerName;
