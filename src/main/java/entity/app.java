@@ -24,7 +24,7 @@ public class app {
 
     public void setAmount(double amount) {
         this.amount = amount;
-    }
+    } // hii
 
     public double getMoNumber() {
         return moNumber;
@@ -36,7 +36,7 @@ public class app {
 
     public String getHolerName() {
         return holerName;
-    }
+    }//hi
 
     public void setHolerName(String holerName) {
         this.holerName = holerName;
