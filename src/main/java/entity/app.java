@@ -29,7 +29,7 @@ public class app {
     public double getMoNumber() {
         return moNumber;
     }
-   // git change
+   // git change new
     public void setMoNumber(double moNumber) {
         this.moNumber = moNumber;
     }
